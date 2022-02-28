@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVorks of darknes brought to light, or A glance on the mystery of iniquity, carried on in these three nations by the Iesuits, to the utter subversion of religion and government, and an attempt to subject us to popish tyranny: with proposals to prevent the same. By S.W.</title>
+            <author>S. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96094</idno>
+            <idno type="STC">Wing W111</idno>
+            <idno type="STC">Thomason E984_10</idno>
+            <idno type="STC">ESTC R203978</idno>
+            <idno type="EEBO-CITATION">99863727</idno>
+            <idno type="PROQUEST">99863727</idno>
+            <idno type="VID">115940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115940)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E984[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVorks of darknes brought to light, or A glance on the mystery of iniquity, carried on in these three nations by the Iesuits, to the utter subversion of religion and government, and an attempt to subject us to popish tyranny: with proposals to prevent the same. By S.W.</title>
+                  <author>S. W.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 30"; "May 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Great Britain --  Early works to 1800.</term>
+               <term>Jesuits --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115940:1" rendition="simple:additions"/>
+            <p>VVORKS OF DARKNES Brought to LIGHT, OR A Glance on the myſtery of Iniquity, carried on in theſe three Nations by the IESVITS, To the utter ſubverſion of Religion and Go<g ref="char:EOLhyphen"/>vernment, and an attempt to ſubject us to Popiſh Tyranny: With propoſals to pre<g ref="char:EOLhyphen"/>vent the ſame.</p>
+            <p>By S. W.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLIX. <add>May 30.</add>
+            </p>
+            <pb facs="tcp:115940:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115940:2"/>
+            <head>WORKS OF DARKNES Brought to Light, &amp;c.</head>
+            <p>IT is reported, that the <hi>Athenians</hi> finding a boy pick<g ref="char:EOLhyphen"/>ing out the eies of birds, cauſed him to be put to death, ſuppoſing this petty cruelty an infallible omen of his proving a tyrant, when of riper years. I could wiſh that this device were put in execution againſt Jeſuits and Popiſh emiſſaries, whoſe boldneſſe attempts ſo high, as not only to ſeduce this Nation in Peccadilloes, and ſuckling Hereſies, but ſtrikes even at the two eies of religi<g ref="char:EOLhyphen"/>on, Magiſtracie and Miniſtrie, Government and Religion; A ſad omen that their aims and higheſt expectations are to enſlave us to their damnable deſires. To make a recapitula<g ref="char:EOLhyphen"/>tion of their former eſſaies to ſubvert religion, by removing thoſe from places of truſt by dagges, daggers, and poiſon, who have engaged their power to the utmoſt in the defence of the reformed religion for the good of their countrie, were but to light a candle to the Sun; their very Calendars bluſh
+<pb n="2" facs="tcp:115940:3"/>
+to ſee ſo many Traitors canonized for Saints. And it may juſtly be feared that in time this plague of Poperie ariſing from Antichriſtian <hi>Rome,</hi> will ſpread its infection farther than ever the victorious arms of their mother Citie did, even at that time when ſhe was ſtiled the Miſtreſſe of the world, which to preven<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is whol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and primarily incumbent upon you, to whom the divine Providence hath, as to Vicege<g ref="char:EOLhyphen"/>rents, reſigned the reigns of government. And know, that if the power he hath lent you, be not emploied by you to the reformation or confuſion of the enemies of Religion, and by cenſequence this enemie of God, who ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h commanded a ſtrict walking therein, he will make you memorable exam<g ref="char:EOLhyphen"/>ples of treachetie to Religion, and apoſtacie from pietie to all eternitie. Neither can any ſober man impute thoſe cala<g ref="char:EOLhyphen"/>mities (of which of late we have deeply taſted) to any other cauſe than the toleration of Schiſms, Hereſies, and damnable errours, which of late daies hath been permi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted amongſt us; and I am confid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt that the noxious clemencie of our Anceſtours hath wronged the Devil of his due, by delaying or revoking thoſe lega, proceedings, which by the law of this Nation have, or ought to have been made againſt Here<g ref="char:EOLhyphen"/>ticks; and eſpeci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly the chief of them, Emiſſaries, and Se<g ref="char:EOLhyphen"/>minary Prieſts: which like the <hi>Egyptian</hi> Frogs and Graſhop<g ref="char:EOLhyphen"/>pers, do now adayes ſwarm in <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> For certainly, if any may be thought diſturbers &amp; brea<g ref="char:EOLhyphen"/>ers of the publick peace, none more guiltie thereof than Je<g ref="char:EOLhyphen"/>ſuites, than whoſe damnable maximes none more deſtru<g ref="char:EOLhyphen"/>ctive thereto. Some few of which I ſhall inſtance in, and by the f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Hercules</hi> you may gueſſe the bulk of his whole bodie.
+<list>
+                  <item>1. That Kings may impoſe a tribute as juſt, according to a probable opinion, and that the people may refuſe to pay it, as being unjuſt, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccording to another probable opinion, and by conſequence the ſame thing may be lawfull and unlaw<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll at the ſame time.</item>
+                  <item>2. That ſubjects do not ſin when they refuſe without any
+<pb n="3" facs="tcp:115940:3"/>
+reaſon alleged to ſubmit to a law, whereof there hath been legal Proclamation made by the Prince.</item>
+                  <item>3. That Clergy-men are not ſubject to ſecular Princes, and that they are not obliged to any obedience to their lawes, even though thoſe lawes are not any wayes contrary to the State Eccleſiaſtical.</item>
+                  <item>4. That a man outlawed by a temporal Prince may not be killed out of his territories, but that he who is proſcribed or excommunicated by the Pope may be killed in any part of the world, becauſe his juriſdiction extends over all.</item>
+                  <item>5. That it is lawfull, as well in judgment as out of judg<g ref="char:EOLhyphen"/>ment, to ſwear with a mental reſervation, without any re<g ref="char:EOLhyphen"/>gard had to the intention of him who obliges a man to ſwear.</item>
+                  <item>6. That it is ſometimes allowable, and that ſo as a man ſhall not be guilty of any mortal ſin, to kill an adverſe par<g ref="char:EOLhyphen"/>ty, or to defame him by charging him with crimes he is no way guilty of.</item>
+                  <item>7. That it is lawfull for an Eccleſiaſtick or Religious man of any order, to kill a detractor, who threatens to diſcover notorious crimes of him or his Religion, when there is no other way to prevent it.</item>
+                  <item>8. That it is lawfull for any man to kill any one of what degree ſoever, that is excommunicated by the Pope.</item>
+               </list>
+            </p>
+            <p>Now what damnable conſequences may be inferred from theſe devilliſh maximes, and what horrible murthers and outrages have upon theſe principles been perpetrated, no age but can produce multitudes of examples; no Nation whi<g ref="char:EOLhyphen"/>ther theſe peſtilential Jeſuits ever came, but hath ſufficient<g ref="char:EOLhyphen"/>ly felt the laſh and ſmart of their inhumane butcheries. Wit<g ref="char:EOLhyphen"/>neſſe
+<pb n="4" facs="tcp:115940:4"/>
+the <hi>Low-Countries, France, Spain,</hi> the <hi>Weſt Indies,</hi> and (not to be tedious in a matter ſo plain) even this our na<g ref="char:EOLhyphen"/>tive Country can produce lively, though not living monuments of their devilliſh Cruelty. To free us from the ſlaviſh, at<g ref="char:EOLhyphen"/>tempts of theſe Spiritual <hi>Egyptians,</hi> no way ſafer or ſpeedier than to make a way for the reformed Religion through the Red Sea of their bloud, to that flouriſhing eſtate which it once enjoyed under our Anceſtors of happy memory. To the effecting of which, I humbly conceive theſe following propoſals effectually tend.
+<list>
+                  <item>1. That all thoſe penal Statutes which have been made againſt Pope<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, Jeſuits, and Papiſts, and have for a long time layn do<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt, may be now put into ſpeedy and ſevere exe<g ref="char:EOLhyphen"/>cution to the intent<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and purpoſes for which they were cre<g ref="char:EOLhyphen"/>ated.</item>
+                  <item>2. That none Popiſhly affected be imployed in any place though of the ſmalleſt truſt.</item>
+                  <item>3. To appoint in every County according to the large<g ref="char:EOLhyphen"/>neſſe thereof, a certain number o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pious and well-affected men, and them to authorize to make ſtrict inquiry and ſearch after ſuch perſons, inhabitants, as are popiſhly affe<g ref="char:EOLhyphen"/>cted, and to that end do commonly harbour and conceal in their houſes Jeſuites, and Seminary Prieſts, and them to ſummon before the Judges of the Aſſizes in their ſe<g ref="char:EOLhyphen"/>veral circuits, to anſwer ſuch things as ſhall be objected againſt them.</item>
+                  <item>4. That ſuch perſons as cannot give a lawfull account of their abſence from Church, may be dealt with according to the Statute in that caſe provided, the money ſo raiſed being im<g ref="char:EOLhyphen"/>ployed to ſet the poor of the County on work.</item>
+                  <item>5. That no meetings may be made or aſſembled on week <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aies or Sabbath daies, but in ſuch places as are or have been lawfully conſecrated, appointed, and ſet apart for
+<pb n="5" facs="tcp:115940:4"/>
+the worſhip of God, as being unwarrantable by the Scri<g ref="char:EOLhyphen"/>ptures, or Laws of this Nation.</item>
+                  <item>6. That none be ſuffered to rrade or work as apprentices, journey-men, or otherwiſe within <hi>England,</hi> or the domini<g ref="char:EOLhyphen"/>ons thereunto belonging, but ſuch as are natives thereof, and lawfully bound to their reſpective Maſter, or have ſerved the full time of their apprentiſhips here in <hi>England</hi> or the dominions thereunto belonging, unleſſe the ſervants of Merchants, who are imploied as Factours here. Becauſe there are many Jeſuits that do exerciſe manual occupations in this land under the habit and notion of Laymen, more ſubtilly and ſafely ſeducing others.</item>
+                  <item>7. That in the reſpective ports, havens, harbours, and bayes of this Commonwealth, and the dominions thereunto belonging, an account may be taken by the ſupreme officer and officers of the ſaid place, of ſuch perſons, who as paſſin<g ref="char:EOLhyphen"/>gers are imported or exported, and the occaſion either of the ingreſſe or egreſſe of the ſaid perſons into or out of this Com<g ref="char:EOLhyphen"/>mo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wealth, or the dominions thereunto belonging, and that <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> ſearch and enquirie may be made into the commo<g ref="char:EOLhyphen"/>dities they import, to prevent the bringing in of popiſh books.</item>
+                  <item>8. That a ſet number of able Divines be authorized to read over and licenſe ſuch books brought into this Nation as they ſhall judge not deſtructive to the peace thereof, whe<g ref="char:EOLhyphen"/>ther the ſaid books be originally written in <hi>Engliſh,</hi> or tranſ<g ref="char:EOLhyphen"/>lated into <hi>Engliſh,</hi> and to read over, and according as they think fit to allow or diſallow all ſuch books as ſhall be writ<g ref="char:EOLhyphen"/>ten in <hi>England,</hi> or the dominions thereunto belonging, in the aforeſaid Language, or tranſlated thereunto, to be printed, and a penalty inflicted on the offenders in the caſes afore<g ref="char:EOLhyphen"/>ſaid.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
